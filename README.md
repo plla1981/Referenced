@@ -46,6 +46,8 @@ CTRL+F搜索：
    【如何减少PCB元器件的磁场辐射】http://www.elecfans.com/emc_emi/1163855.html
    
    【阻抗设计？】https://blog.csdn.net/zhangchao0426/article/details/104994258/
+   
+   【ft-2000-4布线要求】http://layouto.cn/ft-2000-4-layout%e8%a6%81%e6%b1%82/
 
    |----- JLC 嘉立创 PCB start -----
 
