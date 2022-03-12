@@ -62,4 +62,4 @@ CTRL+F搜索：
    【面向初学者的 OpenCV-Python 教程】http://codec.wang/#/opencv/
 
    
-   img。。。
+   ing。。。
