@@ -44,6 +44,8 @@ CTRL+F搜索：
    【详解多层PCB层叠结构】https://zhuanlan.zhihu.com/p/159282165
 
    【如何减少PCB元器件的磁场辐射】http://www.elecfans.com/emc_emi/1163855.html
+   
+   【阻抗设计？】https://blog.csdn.net/zhangchao0426/article/details/104994258/
 
    |----- JLC 嘉立创 PCB start -----
 
