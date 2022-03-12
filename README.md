@@ -9,11 +9,11 @@ CTRL+F搜索：
 	
 [工具类]
 
-		   免费在线工具
+免费在线工具
 
    【翻译deepl】
          https://www.deepl.com/translator
-
+	https://www.deepl.com/translator
    【图片工具】
          https://invert.imageonline.co/cn/
 
