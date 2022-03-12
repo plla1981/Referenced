@@ -13,7 +13,9 @@ CTRL+F搜索：
 
    【翻译deepl】
          https://www.deepl.com/translator
-	https://www.deepl.com/translator
+	 
+		https://www.deepl.com/translator
+	
    【图片工具】
          https://invert.imageonline.co/cn/
 
