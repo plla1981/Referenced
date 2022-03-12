@@ -47,7 +47,7 @@ CTRL+F搜索：
    
    【阻抗设计？】https://blog.csdn.net/zhangchao0426/article/details/104994258/
    
-   【ft-2000-4布线要求】http://layouto.cn/ft-2000-4-layout%e8%a6%81%e6%b1%82/
+   【ft-2000-4走线要求】http://layouto.cn/ft-2000-4-layout%e8%a6%81%e6%b1%82/
 
    |----- JLC 嘉立创 PCB start -----
 
@@ -66,4 +66,6 @@ CTRL+F搜索：
    【面向初学者的 OpenCV-Python 教程】http://codec.wang/#/opencv/
 
    
-   ing。。。
+   ======================================================
+      ing。。。
+   ======================================================
