@@ -107,7 +107,9 @@ CTRL+F搜索：
    
    		http://codec.wang/#/opencv/
 
+   【MPU6050工作原理及STM32控制MPU6050】https://blog.csdn.net/he__yuan/article/details/76559569?spm=1001.2101.3001.6650.11&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-11.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-11.pc_relevant_default&utm_relevant_index=16
    
+   		https://blog.csdn.net/he__yuan/article/details/76559569?spm=1001.2101.3001.6650.11&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-11.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-11.pc_relevant_default&utm_relevant_index=16
    
    
    
