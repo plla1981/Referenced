@@ -42,6 +42,10 @@ CTRL+F搜索：
    【文件格式转换】https://convertio.co/zh/
    
    		https://convertio.co/zh/
+		
+   【PCB走线载流计算器】https://www.eda365.com/article-12-1.html
+   
+   		https://www.eda365.com/article-12-1.html
 
    代码工具
 
