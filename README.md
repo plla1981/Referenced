@@ -19,7 +19,7 @@ CTRL+F搜索：
 	 
 	 	https://invert.imageonline.co/cn/
 		
-	链接二：https://uutool.cn/img-color-reverse/
+链接二：https://uutool.cn/img-color-reverse/
 	
 		https://uutool.cn/img-color-reverse/
 		
