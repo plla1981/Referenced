@@ -19,6 +19,10 @@ CTRL+F搜索：
 	 
 	 	https://invert.imageonline.co/cn/
 		
+	链接二：https://uutool.cn/img-color-reverse/
+	
+		https://uutool.cn/img-color-reverse/
+		
 	
 
    【PDF格式互转换工具】https://smallpdf.com/pdf-to-jpg
