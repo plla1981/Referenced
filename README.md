@@ -15,9 +15,11 @@ CTRL+F搜索：
 	 
 		https://www.deepl.com/translator
 	
-   【图片工具】https://invert.imageonline.co/cn/
+   【图片工具】链接一：https://invert.imageonline.co/cn/
 	 
 	 	https://invert.imageonline.co/cn/
+		
+	
 
    【PDF格式互转换工具】https://smallpdf.com/pdf-to-jpg
    
