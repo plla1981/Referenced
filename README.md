@@ -95,7 +95,7 @@ CTRL+F搜索：
    
    		http://layouto.cn/ft-2000-4-layout%e8%a6%81%e6%b1%82/
 
-   |----- JLC 嘉立创 PCB start -----
+  							----- JLC 嘉立创 PCB start -----
 
    【JLC4-6层板子结构】https://www.jianshu.com/p/2cc844d9e447
 
@@ -105,7 +105,7 @@ CTRL+F搜索：
    
    		https://www.jlc.com/portal/vtechnology.html
 
-   ----- JLC 嘉立创 PCB end   -----|
+   							----- JLC 嘉立创 PCB end  -----
 
 [软件类]
 
