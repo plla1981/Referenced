@@ -95,6 +95,10 @@ CTRL+F搜索：
    
    		http://layouto.cn/ft-2000-4-layout%e8%a6%81%e6%b1%82/
 
+   【无刷直流电机控制简介】https://ww2.mathworks.cn/content/dam/mathworks/ebook/cn-intro-dc-brushless-motors-handout.pdf
+	
+		https://ww2.mathworks.cn/content/dam/mathworks/ebook/cn-intro-dc-brushless-motors-handout.pdf
+
 >>>>>>>>>>----- JLC 嘉立创 PCB start -----
 
    【JLC4-6层板子结构】https://www.jianshu.com/p/2cc844d9e447
