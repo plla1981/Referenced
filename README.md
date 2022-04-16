@@ -127,6 +127,10 @@ CTRL+F搜索：
    
    		https://blog.csdn.net/he__yuan/article/details/76559569?spm=1001.2101.3001.6650.11&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-11.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-11.pc_relevant_default&utm_relevant_index=16
    
+   【C++编程面向初学者】https://mp.weixin.qq.com/s?__biz=MzA5MzYyNzQ0MQ==&mid=2247491550&idx=1&sn=2aa29c018d8c436fc58b99cbdcb5bfa3&chksm=905baa80a72c2396fe8afb1d1b04f37a96b1471c4a60e55d369f8f527e762875ddd7a5521737&scene=178&cur_album_id=1691792449179828225#rd
+   
+   
+   		https://mp.weixin.qq.com/s?__biz=MzA5MzYyNzQ0MQ==&mid=2247491550&idx=1&sn=2aa29c018d8c436fc58b99cbdcb5bfa3&chksm=905baa80a72c2396fe8afb1d1b04f37a96b1471c4a60e55d369f8f527e762875ddd7a5521737&scene=178&cur_album_id=1691792449179828225#rd
    
    
    
