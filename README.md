@@ -100,10 +100,6 @@ CTRL+F搜索：
 		https://ww2.mathworks.cn/content/dam/mathworks/ebook/cn-intro-dc-brushless-motors-handout.pdf
 
 >>>>>>>>>>----- JLC 嘉立创 PCB start -----
-
-   【JLC4-6层板子结构】https://www.jianshu.com/p/2cc844d9e447
-
-		https://www.jianshu.com/p/2cc844d9e447
 		
    【JLC PCB板子工艺参数】https://www.jlc.com/portal/vtechnology.html
    
