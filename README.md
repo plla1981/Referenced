@@ -130,8 +130,10 @@ CTRL+F搜索：
    
    
    
-   
-   
+[DIY]
+	【esp32 无线键盘】https://baijiahao.baidu.com/s?id=1686159345665408392&wfr=spider&for=pc
+	
+	https://baijiahao.baidu.com/s?id=1686159345665408392&wfr=spider&for=pc
    
    
    ======================================================
