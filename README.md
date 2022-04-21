@@ -136,6 +136,10 @@ CTRL+F搜索：
 	https://baijiahao.baidu.com/s?id=1686159345665408392&wfr=spider&for=pc
    
    
+   	【矩阵键盘原理？】http://pcbheaven.com/wikipages/How_Key_Matrices_Works/
+	
+	http://pcbheaven.com/wikipages/How_Key_Matrices_Works/
+   
    ======================================================
    
       ing。。。
