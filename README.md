@@ -98,6 +98,10 @@ CTRL+F搜索：
    【无刷直流电机控制简介】https://ww2.mathworks.cn/content/dam/mathworks/ebook/cn-intro-dc-brushless-motors-handout.pdf
 	
 		https://ww2.mathworks.cn/content/dam/mathworks/ebook/cn-intro-dc-brushless-motors-handout.pdf
+		
+  【电机驱动器设计】https://www.sohu.com/a/337666413_715708
+  
+		  https://www.sohu.com/a/337666413_715708
 
 >>>>>>>>>>----- JLC 嘉立创 PCB start -----
 		
