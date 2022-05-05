@@ -54,7 +54,10 @@ CTRL+F搜索：
    【PCB走线载流计算器】https://www.eda365.com/article-12-1.html
    
    		https://www.eda365.com/article-12-1.html
-
+	
+   【电子元件搜索引擎】https://componentsearchengine.com/
+   	
+		https://componentsearchengine.com/
    代码工具
 
    【SSD1306字符转换】http://oleddisplay.squix.ch/#/home
