@@ -58,6 +58,11 @@ CTRL+F搜索：
    【电子元件搜索引擎】https://componentsearchengine.com/
    	
 		https://componentsearchengine.com/
+		
+   【git下载加速】https://gh.api.99988866.xyz/
+   
+   		https://gh.api.99988866.xyz/
+		
    代码工具
 
    【SSD1306字符转换】http://oleddisplay.squix.ch/#/home
