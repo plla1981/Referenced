@@ -152,6 +152,13 @@ CTRL+F搜索：
 	
 	http://pcbheaven.com/wikipages/How_Key_Matrices_Works/
    
+   
+ [面试]
+ 【大疆嵌入式】https://www.cnblogs.com/cai-zi/p/15466670.html#_caption5
+ 
+ 	https://www.cnblogs.com/cai-zi/p/15466670.html#_caption5
+	
+	
    ======================================================
    
       ing。。。
