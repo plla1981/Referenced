@@ -141,6 +141,10 @@ CTRL+F搜索：
    		https://mp.weixin.qq.com/s?__biz=MzA5MzYyNzQ0MQ==&mid=2247491550&idx=1&sn=2aa29c018d8c436fc58b99cbdcb5bfa3&chksm=905baa80a72c2396fe8afb1d1b04f37a96b1471c4a60e55d369f8f527e762875ddd7a5521737&scene=178&cur_album_id=1691792449179828225#rd
    
    
+   【在C中嵌入汇编】http://www.fxdzw.com/dzsj/c_asm.htm
+   
+   		http://www.fxdzw.com/dzsj/c_asm.htm
+   
    
 [DIY]
    【esp32 无线键盘】https://baijiahao.baidu.com/s?id=1686159345665408392&wfr=spider&for=pc
