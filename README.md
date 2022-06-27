@@ -24,6 +24,9 @@ CTRL+F搜索：
 链接二：https://uutool.cn/img-color-reverse/
 	
 		https://uutool.cn/img-color-reverse/
+链接三：图片拼接 http://zuohaotu.com/image-merge.aspx
+
+		http://zuohaotu.com/image-merge.aspx
 		
 	
 
