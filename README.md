@@ -116,7 +116,11 @@ CTRL+F搜索：
 		
   【电机驱动器设计】https://www.sohu.com/a/337666413_715708
   
-		  https://www.sohu.com/a/337666413_715708
+		https://www.sohu.com/a/337666413_715708
+		  
+  【几种常用MOS管防反接】https://www.eefocus.com/analog-power/417919
+  
+  		https://www.eefocus.com/analog-power/417919
 
 >>>>>>>>>>----- JLC 嘉立创 PCB start -----
 		
