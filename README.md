@@ -170,6 +170,11 @@ CTRL+F搜索：
  	https://www.cnblogs.com/cai-zi/p/15466670.html#_caption5
 	
 	
+[Linux]
+【linux系统移植】http://www.360doc.com/content/21/0320/11/99071_967936079.shtml
+	
+	http://www.360doc.com/content/21/0320/11/99071_967936079.shtml
+	
    ======================================================
    
       ing。。。
