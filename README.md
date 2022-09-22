@@ -159,6 +159,10 @@
    【在C中嵌入汇编】http://www.fxdzw.com/dzsj/c_asm.htm
    
    		http://www.fxdzw.com/dzsj/c_asm.htm
+		
+   【LVGL中文开发手册】http://lvgl.100ask.net/8.2/index.html
+   
+   		http://lvgl.100ask.net/8.2/index.html
    
    
 [DIY]
