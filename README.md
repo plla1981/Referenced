@@ -121,6 +121,10 @@
   【几种常用MOS管防反接】https://www.eefocus.com/analog-power/417919
   
   		https://www.eefocus.com/analog-power/417919
+		
+  【STM32扩展SRAM】https://www.jianshu.com/p/2e61bfe215c3
+  
+  		https://www.jianshu.com/p/2e61bfe215c3
 
 >>>>>>>>>>----- JLC 嘉立创 PCB start -----
 		
