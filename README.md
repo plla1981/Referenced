@@ -85,6 +85,10 @@
 [硬件类]
 
    {未整理资料}
+   
+   【AD软件官方参考手册】https://www.altium.com/documentation/altium-designer/new
+   
+   		https://www.altium.com/documentation/altium-designer/new
 
    【CAN 总线为什么加120R电阻？】http://www.360doc.com/content/21/0824/12/75443365_992402406.shtml
    
