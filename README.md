@@ -133,14 +133,11 @@
   【STM32 FSMC】https://gaoyichao.com/Xiaotu/?book=stm32&title=%E9%9D%99%E6%80%81%E5%AD%98%E5%82%A8%E6%8E%A7%E5%88%B6%E5%99%A8FSMC
   
   		https://gaoyichao.com/Xiaotu/?book=stm32&title=%E9%9D%99%E6%80%81%E5%AD%98%E5%82%A8%E6%8E%A7%E5%88%B6%E5%99%A8FSMC
-
->>>>>>>>>>----- JLC 嘉立创 PCB start -----
 		
    【JLC PCB板子工艺参数】https://www.jlc.com/portal/vtechnology.html
    
    		https://www.jlc.com/portal/vtechnology.html
 
->>>>>>>>>>----- JLC 嘉立创 PCB end  -----
 
 [软件类]
 	
