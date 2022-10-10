@@ -143,7 +143,11 @@
 >>>>>>>>>>----- JLC 嘉立创 PCB end  -----
 
 [软件类]
-
+	
+   【ESP-IDF官网编程文档】https://docs.espressif.com/projects/esp-idf/zh_CN/v3.3.1/get-started/windows-setup.html
+   
+   		https://docs.espressif.com/projects/esp-idf/zh_CN/v3.3.1/get-started/windows-setup.html
+		
    {未整理资料}
 
    【ESP32引导加载程序 (Bootloader)】https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32/api-guides/bootloader.html3
