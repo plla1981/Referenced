@@ -147,10 +147,6 @@
 		
    {未整理资料}
 
-   【ESP32引导加载程序 (Bootloader)】https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32/api-guides/bootloader.html3
-   
-   		https://docs.espressif.com/projects/esp-idf/zh_CN/latest/esp32/api-guides/bootloader.html3
-
    【面向初学者的 OpenCV-Python 教程】http://codec.wang/#/opencv/
    
    		http://codec.wang/#/opencv/
