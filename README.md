@@ -140,6 +140,10 @@
 
 
 [软件类]
+
+   【ESP-IDF ESP32-FreeRTOS】https://www.cnblogs.com/redlightASl/p/15539532.html
+   
+   		https://www.cnblogs.com/redlightASl/p/15539532.html
 	
    【ESP-IDF官网编程文档】https://docs.espressif.com/projects/esp-idf/zh_CN/v3.3.1/get-started/windows-setup.html
    
