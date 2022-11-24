@@ -71,6 +71,10 @@
    【SSD1306字符转换】http://oleddisplay.squix.ch/#/home
    		
 		http://oleddisplay.squix.ch/#/home
+		
+   【进制转换】https://tool.lu/hexconvert/
+   
+   		https://tool.lu/hexconvert/
 
    {未整理资料}
 
