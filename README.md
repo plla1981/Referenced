@@ -93,6 +93,10 @@
    【CAN 总线为什么加120R电阻？】http://www.360doc.com/content/21/0824/12/75443365_992402406.shtml
    
    		ttp://www.360doc.com/content/21/0824/12/75443365_992402406.shtml
+		
+   【CAN通信原理：大众旅行车讲解】http://www.volkspage.net/technik/ssp/ssp/SSP_238.pdf
+   
+   		http://www.volkspage.net/technik/ssp/ssp/SSP_238.pdf
 
    【蛇形走线？】https://www.sohu.com/a/280819288_100111413
    
