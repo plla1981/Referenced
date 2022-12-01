@@ -75,6 +75,10 @@
    【进制转换】https://tool.lu/hexconvert/
    
    		https://tool.lu/hexconvert/
+		
+   【VSCode优雅的注释工具】https://blog.csdn.net/qq_41972807/article/details/123054532
+   
+   		https://blog.csdn.net/qq_41972807/article/details/123054532
 
    {未整理资料}
 
