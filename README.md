@@ -149,6 +149,10 @@
 
 [软件类]
 
+   【华为C语言编程规范】https://handsome-man.blog.csdn.net/article/details/105042594?spm=1001.2014.3001.5506
+   
+   		https://handsome-man.blog.csdn.net/article/details/105042594?spm=1001.2014.3001.5506
+
    【ESP-IDF ESP32-FreeRTOS】https://www.cnblogs.com/redlightASl/p/15539532.html
    
    		https://www.cnblogs.com/redlightASl/p/15539532.html
