@@ -161,6 +161,10 @@
    
    		https://docs.espressif.com/projects/esp-idf/zh_CN/v3.3.1/get-started/windows-setup.html
 		
+   【Tracealyzer RTOS内存可视化分析工具】https://zhuanlan.zhihu.com/p/485328857
+   
+   		https://zhuanlan.zhihu.com/p/485328857
+		
    {未整理资料}
 
    【面向初学者的 OpenCV-Python 教程】http://codec.wang/#/opencv/
