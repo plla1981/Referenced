@@ -161,6 +161,10 @@
    
    		https://docs.espressif.com/projects/esp-idf/zh_CN/v3.3.1/get-started/windows-setup.html
 		
+   【Arduino-ESP32官网编程文档】https://github.com/espressif/arduino-esp32#readme
+   	
+		https://github.com/espressif/arduino-esp32#readme
+		
    【Tracealyzer RTOS内存可视化分析工具】https://zhuanlan.zhihu.com/p/485328857
    
    		https://zhuanlan.zhihu.com/p/485328857
