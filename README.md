@@ -24,6 +24,10 @@
 
 		http://zuohaotu.com/image-merge.aspx
 		
+链接四：在线PS https://www.tuyitu.com/photoshop/
+
+		https://www.tuyitu.com/photoshop/
+		
 	
 
    【PDF格式互转换工具】https://smallpdf.com/pdf-to-jpg
