@@ -173,6 +173,10 @@
    
    		https://zhuanlan.zhihu.com/p/485328857
 		
+   【STM32 下载烧录教程以及问题汇总】http://weact-tc.cn/2019/11/30/STM32Download/
+   
+   		http://weact-tc.cn/2019/11/30/STM32Download/
+		
    {未整理资料}
 
    【面向初学者的 OpenCV-Python 教程】http://codec.wang/#/opencv/
