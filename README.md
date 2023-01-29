@@ -177,6 +177,10 @@
    
    		http://weact-tc.cn/2019/11/30/STM32Download/
 		
+    【I2C传感器驱动】https://www.i2cdevlib.com/devices
+    		
+		https://www.i2cdevlib.com/devices
+		
    {未整理资料}
 
    【面向初学者的 OpenCV-Python 教程】http://codec.wang/#/opencv/
