@@ -177,9 +177,13 @@
    
    		http://weact-tc.cn/2019/11/30/STM32Download/
 		
-    【I2C传感器驱动】https://www.i2cdevlib.com/devices
+   【I2C传感器驱动】https://www.i2cdevlib.com/devices
     		
 		https://www.i2cdevlib.com/devices
+		
+   【stm32两轮平衡车】http://c.miaowlabs.com/A32.html
+   
+   		http://c.miaowlabs.com/A32.html
 		
    {未整理资料}
 
