@@ -185,6 +185,13 @@
    
    		http://c.miaowlabs.com/A32.html
 		
+   【MPU6050卡尔曼滤波器的实现】 http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it/
+   
+   		http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it/
+		
+		
+   		https://www.cnblogs.com/gooutlook/p/16965044.html
+		
    {未整理资料}
 
    【面向初学者的 OpenCV-Python 教程】http://codec.wang/#/opencv/
