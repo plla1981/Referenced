@@ -52,10 +52,6 @@
    
    		http://www.ab173.com/doc/ios.php
 
-   【工具软件下载（非网盘）】http://s.uzzf.com/search/d/pr_pc_hits.html
-   
-   		http://s.uzzf.com/search/d/pr_pc_hits.html
-
    【文件格式转换】https://convertio.co/zh/
    
    		https://convertio.co/zh/
