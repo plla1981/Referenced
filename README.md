@@ -85,6 +85,10 @@
    【VSCode优雅的注释工具】https://blog.csdn.net/qq_41972807/article/details/123054532
    
    		https://blog.csdn.net/qq_41972807/article/details/123054532
+     
+   【Makedown文档公式指导手册】https://www.zybuluo.com/codeep/note/163962
+
+     		https://www.zybuluo.com/codeep/note/163962
 
    {未整理资料}
 
