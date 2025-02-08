@@ -27,7 +27,9 @@
 链接四：在线PS https://www.tuyitu.com/photoshop/
 
 		https://www.tuyitu.com/photoshop/
-		
+链接五：图片在线处理免费https://remeins.com/index/app/fx
+
+		https://remeins.com/index/app/fx
 		
 【视频工具】
 
